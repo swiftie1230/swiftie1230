@@ -1,11 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=300&section=header&text=SeoJin%20Hwang's%20%20Github&fontSize=60&fontAlign=40&fontAlignY=11&rotate=20)
 
+<div align=center>
 
 ![Seo-Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo-Jin&theme=radical&show_icons=true)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-Jin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-Jin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ <hr>
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fswiftie1230&count_bg=%2310FFF8&title_bg=%2340C9F1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 🛒 Stacks I'm using is ...
@@ -37,4 +39,4 @@
 * (21.05 - 06) 코드잇 대학캠프(파이썬, 자료구조, 알고리즘) 수료
 
 ## 📫 How to reach me: ...
-<div align=center><a href="https://swiftie1230.github.io"> <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://swiftie1230.github.io" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a><a href="https://www.instagram.com/after._.glow__/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white"/></a> <a href="mailto:swiftie1230@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:swiftie1230@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a> </div>
+<a href="https://swiftie1230.github.io"> <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://swiftie1230.github.io" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a><a href="https://www.instagram.com/after._.glow__/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white"/></a> <a href="mailto:swiftie1230@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:swiftie1230@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a> </div>
