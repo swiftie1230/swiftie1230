@@ -1,12 +1,12 @@
-<div align=center>![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=300&section=header&text=SeoJin%20Hwang's%20%20Github&fontSize=60&fontAlign=40&fontAlignY=11&rotate=20)</div>
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=300&section=header&text=SeoJin%20Hwang's%20%20Github&fontSize=60&fontAlign=40&fontAlignY=11&rotate=20)
 
 
-<div align=center>![Seo-Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo-Jin&theme=radical&show_icons=true)</div>
+![Seo-Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo-Jin&theme=radical&show_icons=true)
 
 
 
-<div align=center>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-Jin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</div>     
-<div align=center>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fswiftie1230&count_bg=%2310FFF8&title_bg=%2340C9F1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-Jin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fswiftie1230&count_bg=%2310FFF8&title_bg=%2340C9F1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **swiftie1230/swiftie1230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
