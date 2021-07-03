@@ -19,28 +19,28 @@
 </div>
 
 ## 🔭 I’m currently working on ...
--IOS study  
+* IOS study  
  
--Algoritm study  
+* Algoritm study  
  
--Golang study     
+* Golang study     
  
--System-Design study     
+* System-Design study     
  
  
 
 ## 🌱 I’m currently learning ...
-IOS     
+* IOS     
  
-Python
+* Python
  
-Golang
+* Golang
  
-Back-end
+* Back-end
  
-Algorithm
+* Algorithm
  
-System-Design
+* System-Design
 
  
  
