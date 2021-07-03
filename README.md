@@ -16,7 +16,7 @@
 
   
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mariaDB-003545?style=flat&logo=mariaDB&logoColor=white"> </div> 
-
+</div>
 
 ## 🔭 I’m currently working on ...
 -IOS study  
@@ -54,4 +54,4 @@ System-Design
 (21.05 - 06) 코드잇 대학캠프(파이썬, 자료구조, 알고리즘) 수료
 
 ## 📫 How to reach me: ...
-<a href="https://swiftie1230.github.io"> <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://swiftie1230.github.io" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a><a href="https://www.instagram.com/after._.glow__/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white"/></a> <a href="mailto:swiftie1230@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:swiftie1230@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a> </div>
+<div align=center> <a href="https://swiftie1230.github.io"> <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://swiftie1230.github.io" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a><a href="https://www.instagram.com/after._.glow__/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white"/></a> <a href="mailto:swiftie1230@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:swiftie1230@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a> </div>
