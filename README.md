@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 * (21.05 - 06) 코드잇 대학캠프(파이썬, 자료구조, 알고리즘) 수료
 
 ## 📫 How to reach me: ...
-<a href="https://www.instagram.com/after._.glow__/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white"/></a>  
+<a href="https://swiftie1230.github.io"> <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://swiftie1230.github.io" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a><a href="https://www.instagram.com/after._.glow__/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="mailto:swiftie1230@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swiftie1230@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a> </div>
