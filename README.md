@@ -1,5 +1,6 @@
 
-[![Seo-Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo-Jin)](https://github.com/anuraghazra/github-readme-stats)
+![Seo-Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical=true)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -10,7 +11,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ...
+## 🔭 I’m currently working on ...
 ## 🌱 I’m currently learning ...
 * IOS
 * Python
