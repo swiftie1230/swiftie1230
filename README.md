@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I’m currently working on ...
-* (21.04 - ) J2KB MEMBER
-* (21.05 - ) J2KB CREW
+* IOS study
+* Algoritm study
+* Golang study
+* System-Design study
 
 ## 🌱 I’m currently learning ...
 * IOS
@@ -26,9 +28,11 @@ Here are some ideas to get you started:
 * Algorithm
 * System-Design
 
+## ⚡ What I Experienced: ...
+* (20.03 - ) 중앙대학교 소프트웨어학부 재학중
+* (21.04 - ) J2KB MEMBER
+* (21.05 - ) J2KB CREW
+* (21.05 - 06) 코드잇 대학캠프(파이썬, 자료구조, 알고리즘) 수료
+
 ## 📫 How to reach me: ...
-<a href="https://www.instagram.com/after._.glow__/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white"/></a>
-
-## 😄 Pronouns: ...
-## ⚡ Fun fact: ...
-
+<a href="https://www.instagram.com/after._.glow__/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white"/></a>  
