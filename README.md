@@ -30,28 +30,28 @@
  
 
 ## 🌱 I’m currently learning ...
--IOS     
+IOS     
  
--Python
+Python
  
--Golang
+Golang
  
--Back-end
+Back-end
  
--Algorithm
+Algorithm
  
--System-Design
+System-Design
 
  
  
 ## ⚡ What I Experienced: ...
--(20.03 - ) 중앙대학교 소프트웨어학부 재학중
+(20.03 - ) 중앙대학교 소프트웨어학부 재학중
  
--(21.04 - ) J2KB MEMBER
+(21.04 - ) J2KB MEMBER
  
--(21.05 - ) J2KB CREW
+(21.05 - ) J2KB CREW
  
--(21.05 - 06) 코드잇 대학캠프(파이썬, 자료구조, 알고리즘) 수료
+(21.05 - 06) 코드잇 대학캠프(파이썬, 자료구조, 알고리즘) 수료
 
 ## 📫 How to reach me: ...
 <a href="https://swiftie1230.github.io"> <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://swiftie1230.github.io" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a><a href="https://www.instagram.com/after._.glow__/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white"/></a> <a href="mailto:swiftie1230@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:swiftie1230@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a> </div>
