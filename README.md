@@ -1,12 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 
 ![Seo-Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo-Jin&theme=radical&show_icons=true)
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-Jin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Seo-Jin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Seo-Jin)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <!--
