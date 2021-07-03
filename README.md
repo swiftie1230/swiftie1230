@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=200&section=header&text=SeoJin%20Hwang&fontSize=50&rotate=5)
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=300&section=header&text=SeoJin%20Hwang&fontSize=50&rotate=10)
 
 
 ![Seo-Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo-Jin&theme=radical&show_icons=true)
