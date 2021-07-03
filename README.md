@@ -11,6 +11,7 @@
 ## 🛒 Stacks I'm using is ...
 
 <div align=center> <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/swift-FA7343?style=flat&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/go-00ADD8?style=flat&logo=go&logoColor=white"> 
+  
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mariaDB-003545?style=flat&logo=mariaDB&logoColor=white"> </div> 
 
 
