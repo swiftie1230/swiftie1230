@@ -7,11 +7,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-Jin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fswiftie1230&count_bg=%2310FFF8&title_bg=%2340C9F1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<!--
-**swiftie1230/swiftie1230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
+## 🛒 Stacks I'm currently using is ...
+
+<div align=center> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> </div>
+
 
 ## 🔭 I’m currently working on ...
 * IOS study
