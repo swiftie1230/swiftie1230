@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=300&section=header&text=SeoJin%20Hwang's%20%20Github&fontSize=60&fontAlign=40&fontAlignY=11&rotate=20)
 
+<div align=center>
 
 [![Seo-Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=swiftie1230&theme=radical&show_icons=true)](https://github.com/swiftie1230/github-readme-stats)
 
@@ -8,6 +9,7 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fswiftie1230&count_bg=%2310FFF8&title_bg=%2340C9F1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/swiftie1230)
 
+</div>
 
 ## 🛒 Stacks I'm using is ...
 
