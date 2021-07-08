@@ -2,7 +2,7 @@
 
 <div align=center>
 
-![Seo-Jin's GitHub stats](https://github.com/swiftie1230?username=Seo-Jin&theme=radical&show_icons=true)
+[![Seo-Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo-Jin&theme=radical&show_icons=true)](https://github.com/swiftie1230)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-Jin&layout=compact)](https://github.com/swiftie1230)
  
