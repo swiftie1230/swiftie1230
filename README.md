@@ -2,12 +2,12 @@
 
 <div align=center>
 
-[![Seo-Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo-Jin&theme=radical&show_icons=true)](https://github.com/swiftie1230)
+[![Seo-Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo-Jin&theme=radical&show_icons=true)](https://github.com/swiftie1230?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-Jin&layout=compact)](https://github.com/swiftie1230)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-Jin&layout=compact)](https://github.com/swiftie1230?tab=repositories)
  
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fswiftie1230&count_bg=%2310FFF8&title_bg=%2340C9F1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fswiftie1230&count_bg=%2310FFF8&title_bg=%2340C9F1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/swiftie1230?tab=repositories)
  
  </div>
 
