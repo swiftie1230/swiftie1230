@@ -37,8 +37,6 @@
  
 * Golang
  
-* Back-end
- 
 * Algorithm
  
 * System-Design
