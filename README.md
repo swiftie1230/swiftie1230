@@ -22,7 +22,7 @@
 ## 🔭 I’m currently working on ...
 * IOS study  
  
-* Algoritm study  
+* Algorithm study  
  
 * Golang study     
  
