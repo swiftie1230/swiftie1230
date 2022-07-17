@@ -30,7 +30,7 @@
 ## 🌱 I’m currently learning ...
 * IOS     
  
-* Python
+* Front-end (React)
  
 * Algorithm
 
@@ -51,7 +51,7 @@
 
 * (21.07 - 11) 모냉고 iOS 주니어로 활동
 
-* (22.01 - ) NSL Lab에서 학부연구생으로 활동중
+* (22.01 - 04) NSL Lab에서 학부연구생으로 활동
 
 ## 📫 How to reach me: ...
 <div align=center> <a href="https://swiftie1230.github.io"> <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://swiftie1230.github.io" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a><a href="https://www.instagram.com/after._.glow__/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white"/></a> <a href="https://www.facebook.com/profile.php?id=100025080877729"> <img src="http://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=github&link=https://www.facebook.com/profile.php?id=100025080877729" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a><a href="mailto:swiftie1230@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:swiftie1230@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a></div>
