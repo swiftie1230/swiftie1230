@@ -24,7 +24,7 @@
  
 * Algorithm study  
 
-* NSL Lab  
+* Front-end (React) study  
  
 
 ## 🌱 I’m currently learning ...
