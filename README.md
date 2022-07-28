@@ -25,12 +25,16 @@
 * Algorithm study  
 
 * Front-end (React) study  
+
+* Flutter & Dart study 
  
 
 ## 🌱 I’m currently learning ...
 * IOS     
  
 * Front-end (React)
+
+* Flutter & Dart
  
 * Algorithm
 
