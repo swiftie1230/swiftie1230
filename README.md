@@ -24,7 +24,9 @@
  
 * Algorithm study  
 
-* Front-end (React) study  
+* Front-end study  
+
+* React study
 
 * Flutter & Dart study 
  
@@ -32,7 +34,9 @@
 ## 🌱 I’m currently learning ...
 * IOS     
  
-* Front-end (React)
+* Front-end 
+
+* React
 
 * Flutter & Dart
  
