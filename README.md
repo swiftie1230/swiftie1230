@@ -13,7 +13,7 @@
 
 ## 🛒 Stacks I'm using is ...
 
-<div align=center> <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/swift-FA7343?style=flat&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/go-00ADD8?style=flat&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badg/dart-0175C2?style=flat&logo=dart&logoColor=white">
+<div align=center> <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/swift-FA7343?style=flat&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/go-00ADD8?style=flat&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/dart-0175C2?style=flat&logo=dart&logoColor=white">
 
   
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mariaDB-003545?style=flat&logo=mariaDB&logoColor=white"> </div> 
